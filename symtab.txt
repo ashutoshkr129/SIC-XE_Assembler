@@ -1,0 +1,23 @@
+Symbol Table for COPY
+	Symbol	Address	Rel/Abs
+	BUFEND	001036	Rel
+	BUFFER	000036	Rel
+	CLOOP	000006	Rel
+	COPY	000000	Rel
+	ENDFIL	00001A	Rel
+	FIRST	000003	Rel
+	LENGTH	000030	Rel
+	MAXLEN	001000	Abs
+	RETADR	00002D	Rel
+
+Symbol Table for RDREC
+	Symbol	Address	Rel/Abs
+	EXIT	000020	Rel
+	INPUT	000027	Rel
+	MAXLEN	000028	Rel
+	RLOOP	000009	Rel
+
+Symbol Table for WRREC
+	Symbol	Address	Rel/Abs
+	WLOOP	000006	Rel
+

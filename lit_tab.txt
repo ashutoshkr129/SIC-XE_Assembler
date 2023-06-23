@@ -1,0 +1,11 @@
+Literal Table for COPY
+	Literal	Address	Length	Value
+	=C'EOF'	000033	3		4542278
+
+Literal Table for RDREC
+	Literal	Address	Length	Value
+
+Literal Table for WRREC
+	Literal	Address	Length	Value
+	=X'05'	00001B	1		5
+
