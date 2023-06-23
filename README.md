@@ -7,23 +7,17 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="## Introduction">Introduction</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="## Assembler">Assembler</a>
       <ul>
         <li>
-          <a href="#eda-playground">EDA Playground</a>
-          <ul>
-            <li><a href="#login">Login</a></li>
-            <li><a href="#code">Code</a></li>
-            <li><a href="#simulator-setup">Simulator Setup</a></li>
-            <li><a href="#run-code">Run Code</a></li>
-          </ul>
-        </li>
+          <a href="### Assembler : Design">Assembler : Design</a>
+          </li>
       </ul>
     </li>
-    <li><a href="#contributors">Contributors</a></li>
+    <li><a href="### Compilation and Execution">Compilation and Execution</a></li>
   </ol>
 </details>
 
